@@ -40,4 +40,4 @@ Users should be able to:
 ## Author
 
 - Website - [Tejas](https://github.com/Tejas-117)
-- Frontend Mentor - [@Tejas-117](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Tejas-117](https://www.frontendmentor.io/profile/Tejas-117)
