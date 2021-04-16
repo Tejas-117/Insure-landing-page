@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://github.com/Tejas-117/Insure-landing-page)
+- [Live Site URL](https://tejas-117.github.io/Insure-landing-page/)
 
 ## My process
 
@@ -39,5 +39,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Tejas](https://www.your-site.com)
+- Website - [Tejas](https://github.com/Tejas-117)
 - Frontend Mentor - [@Tejas-117](https://www.frontendmentor.io/profile/yourusername)
