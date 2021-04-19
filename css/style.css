@@ -138,6 +138,7 @@ main{
  background-position: left top, right 200%;
  color: white;
  padding: 20% 5%;
+ margin-top: -5px;
 }
 .first-line{
  display: none;
